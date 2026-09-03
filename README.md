@@ -16,8 +16,6 @@ Built and launched a bespoke LMS · wired up CRMs and API integrations · shippe
 
 It's where I get to build the whole thing end to end: the games themselves, the directory that organises them, and everything behind the scenes.
 
-📫 quibble@joystuck.co.uk
-
 ## Otherwise:
 
 🔗 [danielgreenaway.co.uk](https://danielgreenaway.co.uk)
