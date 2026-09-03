@@ -8,11 +8,13 @@ I do the hands-on building and the product side: working out what people actuall
 WordPress (themes, plugins, the bespoke stuff) · PHP · JavaScript · Node.js · MySQL · REST APIs & integrations and whatever else needs doing.
 
 **Lately**
-Built and launched a few websites, a bespoke CRM · wired up CRMs and API integrations · shipped a mobile app or two.
+Built and launched a few websites and a bespoke CRM · wired up API integrations · shipped a mobile app or two.
 
 ## 🎮 Joystuck
 
-[joystuck.co.uk](https://joystuck.co.uk) is a growing collection of live, browser-based games I build in my own time. Most are real-time and multiplayer, running on **Node.js** and **Socket.io**: everyone joins from their own device, game state syncs live, and things generally hold together.
+Most of what I build day to day is client and commercial work that lives in private repos, so [joystuck.co.uk](https://joystuck.co.uk) is where you can actually see (and play) something.
+
+It's a growing collection of live, browser-based games I build in my own time. Most are real-time and multiplayer, running on **Node.js** and **Socket.io**: everyone joins from their own device, game state syncs live, and things generally hold together.
 
 It's where I get to build the whole thing end to end: the games themselves, the directory that organises them, and everything behind the scenes.
 
