@@ -8,7 +8,7 @@ I do the hands-on building and the product side: working out what people actuall
 WordPress (themes, plugins, the bespoke stuff) · PHP · JavaScript · Node.js · MySQL · REST APIs & integrations and whatever else needs doing.
 
 **Lately**
-Built and launched a bespoke LMS · wired up CRMs and API integrations · shipped a mobile app or two.
+Built and launched a few websites, a bespoke CRM · wired up CRMs and API integrations · shipped a mobile app or two.
 
 ## 🎮 Joystuck
 
