@@ -12,7 +12,7 @@ Built and launched a bespoke LMS · wired up CRMs and API integrations · shippe
 
 ## 🎮 Joystuck
 
-[joystuck.co.uk](https://joystuck.co.uk) — a growing collection of live, browser-based games I build in my own time. Most are real-time and multiplayer, running on **Node.js** and **Socket.io**: everyone joins from their own device, game state syncs live, and things generally hold together. 📫 quibble@joystuck.co.uk
+[joystuck.co.uk](https://joystuck.co.uk) - a growing collection of live, browser-based games I build in my own time. Most are real-time and multiplayer, running on **Node.js** and **Socket.io**: everyone joins from their own device, game state syncs live, and things generally hold together. 📫 quibble@joystuck.co.uk
 
 It's where I get to build the whole thing end to end - the games themselves, the directory that organises them, and everything behind the scenes.
 
